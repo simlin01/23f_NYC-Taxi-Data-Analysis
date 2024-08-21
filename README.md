@@ -1,4 +1,4 @@
-### 🚕 NYC taxi data analysis with Tablaeu (UBER vs. LYFT)
+### 🚕 NYC taxi data analysis with Tableau (UBER vs. LYFT)
 
 **대시보드 1**
 
